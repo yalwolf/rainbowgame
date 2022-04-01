@@ -1,0 +1,4 @@
+:Hi！游玩者;
+:欢迎游玩本游戏;
+:现在由我来给你介绍一下本游戏！;
+changeScene:introduce.txt;

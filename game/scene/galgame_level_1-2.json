@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"恭喜你逃过一劫！","vocal":"","ignoreSpeaker":true},{"type":"dialog","speaker":"","content":"想知道为什么吗","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"就此结束","scene":"end.txt"},{"text":"返回选择上前","scene":"galgame_level_1-1.txt"}]}]

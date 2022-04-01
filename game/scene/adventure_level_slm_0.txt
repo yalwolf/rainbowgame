@@ -1,0 +1,3 @@
+:尽管史莱姆并没有对你展现出敌意;
+:你却还是将它砍成了一摊泥;
+changeScene:adventure_level_1-1.txt;

@@ -1,0 +1,5 @@
+Game_name:彩虹の小游戏;
+Game_key:114514LTS;
+Title_img:rainbowgame-bgx.jpg;
+Title_bgm:none;
+Loading_img:rainbowgame-bgx.jpg;

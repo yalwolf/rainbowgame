@@ -1,0 +1,11 @@
+intro:介绍,,如你所见，这是一款能在网页上玩的文字类游戏,,本意是在愚人节那天整活;
+intro:虽然我希望剧情不水|但我做的一个专注剧情的已经垮了;
+intro:但愿能为你带来开心叭QAQ,;
+intro:游戏&剧情制作：RS彩虹君QwQ,;
+intro:网页制作&吐槽员：一只阿狼哒,;
+intro:图片来源：自制或网络，纯属整活，如侵权请谅解,;
+intro:作者的B站UID：382250802,;
+intro:作者个人站点：rainbow.alwolf.cn,;
+intro:如果你真的很闲的话,可以使用存档，看看其他选项里的内容！,;
+intro:那么介绍看完了，那我们就开始吧！;
+changeScene:level_selection.txt;

@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"系统","content":"请选择你想游玩的类型","vocal":"","ignoreSpeaker":false},{"type":"choose","chooseItem":[{"text":"冒险类","scene":"adventure_level.txt"},{"text":"爱情类","scene":"galgame_level.txt"}]}]

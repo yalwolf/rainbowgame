@@ -1,0 +1,3 @@
+:恭喜你逃过一劫！;
+想知道为什么吗;
+choose:{就此结束:end.txt,返回选择上前:galgame_level_1-1.txt};

@@ -1,0 +1,2 @@
+:你无视它，继续向前前进;
+changeScene:adventure_level_1-1.txt;

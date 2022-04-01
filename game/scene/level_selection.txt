@@ -1,0 +1,2 @@
+系统:请选择你想游玩的类型;
+choose:{冒险类:adventure_level.txt,爱情类:galgame_level.txt};

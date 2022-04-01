@@ -1,0 +1,7 @@
+:傍晚时分，你到达了魔龙山洞前;
+:浩大的山洞令你感到了浓烈的压迫感;
+changeBG_next:bg-yz-5.png
+作者:（我实在是找不到合适的图了）;
+作者:（请想象它是一个很大很大的洞口）;
+:你做好准备了吗;
+choose:{是:adventure_level_1-6.txt,否:adventure_level_1-6-1.txt};

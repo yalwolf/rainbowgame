@@ -1,0 +1,12 @@
+changeBG_next:bg-gal-2.png
+...;
+intro:你是一名普通学生,,这天你突然想跟暗恋很久的女同学表白;
+changeBG_next:bg-gal.png
+changeP_next:p2.png;
+你:前面那位，是我们班的班花;
+我已经暗恋她很久了;
+今天，我终于鼓起勇气向她表白;
+啊，好紧张啊，心跳的好快;
+扑通~ 扑通~;
+无论如何，再不上就没机会了;
+choose:{上前叫”她":galgame_level_1-1.txt,继续犹豫:galgame_level_1-2.txt};

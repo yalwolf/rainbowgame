@@ -1,0 +1,1 @@
+[{"type":"dialog","speaker":"","content":"Hi！游玩者","vocal":"","ignoreSpeaker":true},{"type":"dialog","speaker":"","content":"欢迎游玩本游戏","vocal":"","ignoreSpeaker":true},{"type":"dialog","speaker":"","content":"现在由我来给你介绍一下本游戏！","vocal":"","ignoreSpeaker":true},{"type":"changeScene","newScene":"introduce.txt"}]
